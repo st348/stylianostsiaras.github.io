@@ -4,10 +4,12 @@ name: Your Name
 description: Welcome to my webpage. Here, you can find my job market paper, CV.
 footer-links:
   dribbble:
-  email: s.tsiaras@surrey.ac.uk
+  email:
+  username: s.tsiaras@surrey.ac.uk
   facebook:
   flickr:
-  github: st348
+  github:
+  username: st348
   instagram:
   linkedin:
   pinterest:
