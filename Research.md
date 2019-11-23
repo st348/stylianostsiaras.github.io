@@ -1,1 +1,3 @@
-This is my research
+layout: page
+title: "RESEARCH"
+permalink: /steliostsiaras.github.io/research/
