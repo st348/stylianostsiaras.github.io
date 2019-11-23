@@ -1,3 +1,3 @@
 layout: page
-title: "RESEARCH"
+title: "Research"
 permalink: /steliostsiaras.github.io/research/
